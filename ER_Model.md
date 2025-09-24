@@ -23,6 +23,8 @@ It represents the **logical structure** of a database, including **entities**, t
 - 📌 **Example:**  
   - **Student** _enrolls in_ **Course**.  
   - **Employee** _works for_ **Company**.
+  <img width="1024" height="325" alt="image" src="https://github.com/user-attachments/assets/3f6855a5-b865-448b-b1f9-b8a25b08c146" />
+
 
 
 
