@@ -13,3 +13,4 @@ Examples of NoSQL DBMS are MongoDB, Cassandra, DynamoDB and Redis.
 
 topics
 JOINS
+SUBQUERY
